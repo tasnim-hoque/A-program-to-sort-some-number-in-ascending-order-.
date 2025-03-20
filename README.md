@@ -1,1 +1,0 @@
-# A-program-to-sort-some-number-in-ascending-order-.
